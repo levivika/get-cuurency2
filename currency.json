@@ -1,0 +1,752 @@
+{
+  "USD": {
+    "currency_number": 840,
+    "currency_name": "Доллар США",
+    "currency_price": "88.2568"
+  },
+  "EUR": {
+    "currency_number": 978,
+    "currency_name": "Евро",
+    "currency_price": "91.5655"
+  },
+  "CNY": {
+    "currency_number": 156,
+    "currency_name": "Китайский юань",
+    "currency_price": "12.0754"
+  },
+  "AED": {
+    "currency_number": 784,
+    "currency_name": "Дирхам ОАЭ",
+    "currency_price": "24.0318"
+  },
+  "AMD": {
+    "currency_number": 51,
+    "currency_name": "Армянский драм",
+    "currency_price": "22.4372"
+  },
+  "AUD": {
+    "currency_number": 36,
+    "currency_name": "Австралийский доллар",
+    "currency_price": "54.8428"
+  },
+  "AZN": {
+    "currency_number": 944,
+    "currency_name": "Азербайджанский манат",
+    "currency_price": "51.9158"
+  },
+  "BGN": {
+    "currency_number": 975,
+    "currency_name": "Болгарский лев",
+    "currency_price": "47.2776"
+  },
+  "BRL": {
+    "currency_number": 986,
+    "currency_name": "Бразильский реал",
+    "currency_price": "15.1579"
+  },
+  "BYN": {
+    "currency_number": 933,
+    "currency_name": "Белорусский рубль",
+    "currency_price": "27.5510"
+  },
+  "CAD": {
+    "currency_number": 124,
+    "currency_name": "Канадский доллар",
+    "currency_price": "61.1960"
+  },
+  "CHF": {
+    "currency_number": 756,
+    "currency_name": "Швейцарский франк",
+    "currency_price": "97.8565"
+  },
+  "CZK": {
+    "currency_number": 203,
+    "currency_name": "Чешская крона",
+    "currency_price": "37.0065"
+  },
+  "DKK": {
+    "currency_number": 208,
+    "currency_name": "Датская крона",
+    "currency_price": "12.3977"
+  },
+  "EGP": {
+    "currency_number": 818,
+    "currency_name": "Египетский фунт",
+    "currency_price": "17.4208"
+  },
+  "GBP": {
+    "currency_number": 826,
+    "currency_name": "Фунт стерлингов",
+    "currency_price": "111.4507"
+  },
+  "GEL": {
+    "currency_number": 981,
+    "currency_name": "Грузинский лари",
+    "currency_price": "31.3278"
+  },
+  "HKD": {
+    "currency_number": 344,
+    "currency_name": "Гонконгский доллар",
+    "currency_price": "11.3674"
+  },
+  "HUF": {
+    "currency_number": 348,
+    "currency_name": "Венгерский форинт",
+    "currency_price": "22.9090"
+  },
+  "IDR": {
+    "currency_number": 360,
+    "currency_name": "Индонезийская рупия",
+    "currency_price": "53.7136"
+  },
+  "INR": {
+    "currency_number": 356,
+    "currency_name": "Индийская рупия",
+    "currency_price": "10.0980"
+  },
+  "JPY": {
+    "currency_number": 392,
+    "currency_name": "Японская иена",
+    "currency_price": "58.9873"
+  },
+  "KGS": {
+    "currency_number": 417,
+    "currency_name": "Киргизский сом",
+    "currency_price": "10.0924"
+  },
+  "KRW": {
+    "currency_number": 410,
+    "currency_name": "Вон Республики Корея",
+    "currency_price": "61.3065"
+  },
+  "KZT": {
+    "currency_number": 398,
+    "currency_name": "Казахстанский тенге",
+    "currency_price": "17.5989"
+  },
+  "MDL": {
+    "currency_number": 498,
+    "currency_name": "Молдавский лей",
+    "currency_price": "47.3458"
+  },
+  "NOK": {
+    "currency_number": 578,
+    "currency_name": "Норвежская крона",
+    "currency_price": "79.0208"
+  },
+  "NZD": {
+    "currency_number": 554,
+    "currency_name": "Новозеландский доллар",
+    "currency_price": "49.6400"
+  },
+  "PLN": {
+    "currency_number": 985,
+    "currency_name": "Польский злотый",
+    "currency_price": "22.0681"
+  },
+  "QAR": {
+    "currency_number": 634,
+    "currency_name": "Катарский риал",
+    "currency_price": "24.2464"
+  },
+  "RON": {
+    "currency_number": 946,
+    "currency_name": "Румынский лей",
+    "currency_price": "18.4468"
+  },
+  "RSD": {
+    "currency_number": 941,
+    "currency_name": "Сербский динар",
+    "currency_price": "78.2517"
+  },
+  "SEK": {
+    "currency_number": 752,
+    "currency_name": "Шведская крона",
+    "currency_price": "82.8628"
+  },
+  "SGD": {
+    "currency_number": 702,
+    "currency_name": "Сингапурский доллар",
+    "currency_price": "65.4239"
+  },
+  "THB": {
+    "currency_number": 764,
+    "currency_name": "Таиландский бат",
+    "currency_price": "25.8719"
+  },
+  "TJS": {
+    "currency_number": 972,
+    "currency_name": "Таджикский сомони",
+    "currency_price": "80.8442"
+  },
+  "TMT": {
+    "currency_number": 934,
+    "currency_name": "Новый туркменский манат",
+    "currency_price": "25.2162"
+  },
+  "TRY": {
+    "currency_number": 949,
+    "currency_name": "Турецкая лира",
+    "currency_price": "24.2477"
+  },
+  "UAH": {
+    "currency_number": 980,
+    "currency_name": "Украинская гривна",
+    "currency_price": "21.2595"
+  },
+  "UZS": {
+    "currency_number": 860,
+    "currency_name": "Узбекский сум",
+    "currency_price": "68.5364"
+  },
+  "VND": {
+    "currency_number": 704,
+    "currency_name": "Вьетнамский донг",
+    "currency_price": "35.6939"
+  },
+  "XDR": {
+    "currency_number": 960,
+    "currency_name": "СДР (специальные права заимствования)",
+    "currency_price": "115.8953"
+  },
+  "ZAR": {
+    "currency_number": 710,
+    "currency_name": "Южноафриканский рэнд",
+    "currency_price": "47.6896"
+  },
+  "AFN": {
+    "currency_number": 971,
+    "currency_name": "Афганских афгани",
+    "currency_price": "98.3034"
+  },
+  "ALL": {
+    "currency_number": 8,
+    "currency_name": "Лек",
+    "currency_price": "79.0477"
+  },
+  "AOA": {
+    "currency_number": 973,
+    "currency_name": "Ангольских кванз",
+    "currency_price": "17.7901"
+  },
+  "ARS": {
+    "currency_number": 32,
+    "currency_name": "Аргентинское песо",
+    "currency_price": "81.6890"
+  },
+  "AWG": {
+    "currency_number": 533,
+    "currency_name": "Арубанский флорин",
+    "currency_price": "48.7607"
+  },
+  "BAM": {
+    "currency_number": 977,
+    "currency_name": "Конвертируемая марка",
+    "currency_price": "49.5825"
+  },
+  "BBD": {
+    "currency_number": 52,
+    "currency_name": "Барбадосский доллар",
+    "currency_price": "43.7110"
+  },
+  "BDT": {
+    "currency_number": 50,
+    "currency_name": "Така",
+    "currency_price": "10.2451"
+  },
+  "BHD": {
+    "currency_number": 48,
+    "currency_name": "Бахрейнский динар",
+    "currency_price": "234.1029"
+  },
+  "BIF": {
+    "currency_number": 108,
+    "currency_name": "Бурундийский франк",
+    "currency_price": "44.1394"
+  },
+  "BMD": {
+    "currency_number": 60,
+    "currency_name": "Бермудский доллар",
+    "currency_price": "88.2568"
+  },
+  "BND": {
+    "currency_number": 96,
+    "currency_name": "Брунейский доллар",
+    "currency_price": "64.9233"
+  },
+  "BOB": {
+    "currency_number": 68,
+    "currency_name": "Боливиано",
+    "currency_price": "12.8374"
+  },
+  "BSD": {
+    "currency_number": 44,
+    "currency_name": "Багамский доллар",
+    "currency_price": "88.2568"
+  },
+  "BTN": {
+    "currency_number": 64,
+    "currency_name": "Нгултрум",
+    "currency_price": "11.6127"
+  },
+  "BWP": {
+    "currency_number": 72,
+    "currency_name": "Пула",
+    "currency_price": "75.9008"
+  },
+  "BZD": {
+    "currency_number": 84,
+    "currency_name": "Белизский доллар",
+    "currency_price": "43.7847"
+  },
+  "CDF": {
+    "currency_number": 976,
+    "currency_name": "Конголезских франков",
+    "currency_price": "44.1033"
+  },
+  "CLP": {
+    "currency_number": 152,
+    "currency_name": "Чилийское песо",
+    "currency_price": "11.0858"
+  },
+  "COP": {
+    "currency_number": 170,
+    "currency_name": "Колумбийское песо",
+    "currency_price": "23.4760"
+  },
+  "CRC": {
+    "currency_number": 188,
+    "currency_name": "Костариканский колон",
+    "currency_price": "13.7165"
+  },
+  "CUP": {
+    "currency_number": 192,
+    "currency_name": "Кубинское песо",
+    "currency_price": "36.7737"
+  },
+  "CVE": {
+    "currency_number": 132,
+    "currency_name": "Эскудо Кабо-Верде",
+    "currency_price": "87.7566"
+  },
+  "DJF": {
+    "currency_number": 262,
+    "currency_name": "Франк Джибути",
+    "currency_price": "49.5755"
+  },
+  "DOP": {
+    "currency_number": 214,
+    "currency_name": "Доминиканское песо",
+    "currency_price": "16.0964"
+  },
+  "DZD": {
+    "currency_number": 12,
+    "currency_name": "Алжирский динар",
+    "currency_price": "62.0508"
+  },
+  "ERN": {
+    "currency_number": 232,
+    "currency_name": "Эритрейская накфа",
+    "currency_price": "58.5451"
+  },
+  "ETB": {
+    "currency_number": 230,
+    "currency_name": "Эфиопский быр",
+    "currency_price": "17.2120"
+  },
+  "FJD": {
+    "currency_number": 242,
+    "currency_name": "Доллар Фиджи",
+    "currency_price": "41.8425"
+  },
+  "FKP": {
+    "currency_number": 238,
+    "currency_name": "Фунт Фолклендских островов",
+    "currency_price": "117.6816"
+  },
+  "GHS": {
+    "currency_number": 936,
+    "currency_name": "Ганский седи",
+    "currency_price": "12.6533"
+  },
+  "GIP": {
+    "currency_number": 292,
+    "currency_name": "Гибралтарский фунт",
+    "currency_price": "117.6816"
+  },
+  "GMD": {
+    "currency_number": 270,
+    "currency_name": "Даласи",
+    "currency_price": "16.5352"
+  },
+  "GNF": {
+    "currency_number": 324,
+    "currency_name": "Гвинейский франк",
+    "currency_price": "98.3527"
+  },
+  "GTQ": {
+    "currency_number": 320,
+    "currency_name": "Кетсаль",
+    "currency_price": "11.4471"
+  },
+  "GYD": {
+    "currency_number": 328,
+    "currency_name": "Гайанский доллар",
+    "currency_price": "42.1847"
+  },
+  "HNL": {
+    "currency_number": 340,
+    "currency_name": "Лемпира",
+    "currency_price": "35.8427"
+  },
+  "HRK": {
+    "currency_number": 191,
+    "currency_name": "Хорватская куна",
+    "currency_price": "12.8549"
+  },
+  "HTG": {
+    "currency_number": 332,
+    "currency_name": "Гурд",
+    "currency_price": "83.6557"
+  },
+  "ILS": {
+    "currency_number": 376,
+    "currency_name": "Новый израильский шекель",
+    "currency_price": "27.1167"
+  },
+  "IQD": {
+    "currency_number": 368,
+    "currency_name": "Иракский динар",
+    "currency_price": "60.4697"
+  },
+  "IRR": {
+    "currency_number": 364,
+    "currency_name": "Иранский риал",
+    "currency_price": "21.0135"
+  },
+  "ISK": {
+    "currency_number": 352,
+    "currency_name": "Исландская крона",
+    "currency_price": "67.7856"
+  },
+  "JMD": {
+    "currency_number": 388,
+    "currency_name": "Ямайский доллар",
+    "currency_price": "57.1704"
+  },
+  "JOD": {
+    "currency_number": 400,
+    "currency_name": "Иорданский динар",
+    "currency_price": "124.4807"
+  },
+  "KES": {
+    "currency_number": 404,
+    "currency_name": "Кенийский шиллинг",
+    "currency_price": "77.4692"
+  },
+  "KHR": {
+    "currency_number": 116,
+    "currency_name": "Риель",
+    "currency_price": "21.7114"
+  },
+  "KMF": {
+    "currency_number": 174,
+    "currency_name": "Франк Комор",
+    "currency_price": "19.8103"
+  },
+  "KPW": {
+    "currency_number": 408,
+    "currency_name": "Северокорейская вона",
+    "currency_price": "67.8898"
+  },
+  "KWD": {
+    "currency_number": 414,
+    "currency_name": "Кувейтский динар",
+    "currency_price": "290.8926"
+  },
+  "LAK": {
+    "currency_number": 418,
+    "currency_name": "Кип",
+    "currency_price": "76.9860"
+  },
+  "LBP": {
+    "currency_number": 422,
+    "currency_name": "Ливанский фунт",
+    "currency_price": "58.3632"
+  },
+  "LKR": {
+    "currency_number": 144,
+    "currency_name": "Шри-Ланкийская рупия",
+    "currency_price": "43.6915"
+  },
+  "LRD": {
+    "currency_number": 430,
+    "currency_name": "Либерийский доллар",
+    "currency_price": "57.1982"
+  },
+  "LYD": {
+    "currency_number": 434,
+    "currency_name": "Ливийский динар",
+    "currency_price": "19.0875"
+  },
+  "MAD": {
+    "currency_number": 504,
+    "currency_name": "Марокканский дирхам",
+    "currency_price": "91.3792"
+  },
+  "MGA": {
+    "currency_number": 969,
+    "currency_name": "Малагасийских ариари",
+    "currency_price": "22.0891"
+  },
+  "MKD": {
+    "currency_number": 807,
+    "currency_name": "Денар",
+    "currency_price": "15.7770"
+  },
+  "MNT": {
+    "currency_number": 496,
+    "currency_name": "Тугрик",
+    "currency_price": "30.6447"
+  },
+  "MOP": {
+    "currency_number": 446,
+    "currency_name": "Патака",
+    "currency_price": "10.9561"
+  },
+  "MRU": {
+    "currency_number": 929,
+    "currency_name": "Мавританских угий",
+    "currency_price": "24.2530"
+  },
+  "MUR": {
+    "currency_number": 480,
+    "currency_name": "Маврикийская рупия",
+    "currency_price": "20.1270"
+  },
+  "MVR": {
+    "currency_number": 462,
+    "currency_name": "Руфия",
+    "currency_price": "57.0872"
+  },
+  "MWK": {
+    "currency_number": 454,
+    "currency_name": "Квача",
+    "currency_price": "10.9820"
+  },
+  "MXN": {
+    "currency_number": 484,
+    "currency_name": "Мексиканское песо",
+    "currency_price": "42.6716"
+  },
+  "MYR": {
+    "currency_number": 458,
+    "currency_name": "Малайзийский ринггит",
+    "currency_price": "21.1292"
+  },
+  "MZN": {
+    "currency_number": 943,
+    "currency_name": "Мозамбикских метикалов",
+    "currency_price": "13.7686"
+  },
+  "NAD": {
+    "currency_number": 516,
+    "currency_name": "Доллар Намибии",
+    "currency_price": "57.9098"
+  },
+  "NGN": {
+    "currency_number": 566,
+    "currency_name": "Найра",
+    "currency_price": "21.2176"
+  },
+  "NIO": {
+    "currency_number": 558,
+    "currency_name": "Золотая кордоба",
+    "currency_price": "24.6838"
+  },
+  "NPR": {
+    "currency_number": 524,
+    "currency_name": "Непальская рупия",
+    "currency_price": "72.4575"
+  },
+  "OMR": {
+    "currency_number": 512,
+    "currency_name": "Оманский риал",
+    "currency_price": "229.2384"
+  },
+  "PEN": {
+    "currency_number": 604,
+    "currency_name": "Новый соль",
+    "currency_price": "23.6582"
+  },
+  "PGK": {
+    "currency_number": 598,
+    "currency_name": "Кина",
+    "currency_price": "25.0649"
+  },
+  "PHP": {
+    "currency_number": 608,
+    "currency_name": "Филиппинское песо",
+    "currency_price": "17.0347"
+  },
+  "PKR": {
+    "currency_number": 586,
+    "currency_name": "Пакистанская рупия",
+    "currency_price": "49.5199"
+  },
+  "PYG": {
+    "currency_number": 600,
+    "currency_name": "Гуарани",
+    "currency_price": "12.6316"
+  },
+  "RWF": {
+    "currency_number": 646,
+    "currency_name": "Франк Руанды",
+    "currency_price": "86.7815"
+  },
+  "SAR": {
+    "currency_number": 682,
+    "currency_name": "Саудовский риял",
+    "currency_price": "23.5232"
+  },
+  "SBD": {
+    "currency_number": 90,
+    "currency_name": "Доллар Соломоновых Островов",
+    "currency_price": "10.9350"
+  },
+  "SCR": {
+    "currency_number": 690,
+    "currency_name": "Сейшельская рупия",
+    "currency_price": "61.2894"
+  },
+  "SDG": {
+    "currency_number": 938,
+    "currency_name": "Суданский фунт",
+    "currency_price": "19.7786"
+  },
+  "SHP": {
+    "currency_number": 654,
+    "currency_name": "Фунт Святой Елены",
+    "currency_price": "118.1317"
+  },
+  "SLE": {
+    "currency_number": 925,
+    "currency_name": "Леоне",
+    "currency_price": "75.8220"
+  },
+  "SLL": {
+    "currency_number": 694,
+    "currency_name": "Леоне (стар.)",
+    "currency_price": "75.8220"
+  },
+  "SOS": {
+    "currency_number": 706,
+    "currency_name": "Сомалийский шиллинг",
+    "currency_price": "15.2561"
+  },
+  "SRD": {
+    "currency_number": 968,
+    "currency_name": "Суринамский доллар",
+    "currency_price": "43.0458"
+  },
+  "STD": {
+    "currency_number": 678,
+    "currency_name": "Добра",
+    "currency_price": "29.9004"
+  },
+  "STN": {
+    "currency_number": 930,
+    "currency_name": "Добра Сан-Томе и Принсипи",
+    "currency_price": "39.2788"
+  },
+  "SVC": {
+    "currency_number": 222,
+    "currency_name": "Сальвадорский колон",
+    "currency_price": "10.0813"
+  },
+  "SYP": {
+    "currency_number": 760,
+    "currency_name": "Сирийский фунт",
+    "currency_price": "35.1271"
+  },
+  "SZL": {
+    "currency_number": 748,
+    "currency_name": "Лилангени",
+    "currency_price": "57.9181"
+  },
+  "TND": {
+    "currency_number": 788,
+    "currency_name": "Тунисский динар",
+    "currency_price": "30.1115"
+  },
+  "TOP": {
+    "currency_number": 776,
+    "currency_name": "Паанга",
+    "currency_price": "38.9654"
+  },
+  "TTD": {
+    "currency_number": 780,
+    "currency_name": "Доллар Тринидада и Тобаго",
+    "currency_price": "13.0053"
+  },
+  "TWD": {
+    "currency_number": 901,
+    "currency_name": "Новый тайваньский доллар",
+    "currency_price": "31.3796"
+  },
+  "TZS": {
+    "currency_number": 834,
+    "currency_name": "Танзанийский шиллинг",
+    "currency_price": "38.1239"
+  },
+  "UGX": {
+    "currency_number": 800,
+    "currency_name": "Угандийский шиллинг",
+    "currency_price": "24.7738"
+  },
+  "UYU": {
+    "currency_number": 858,
+    "currency_name": "Уругвайское песо",
+    "currency_price": "20.6521"
+  },
+  "VEF": {
+    "currency_number": 937,
+    "currency_name": "Венесуэльский боливар фуэрте",
+    "currency_price": "26.9095"
+  },
+  "VES": {
+    "currency_number": 928,
+    "currency_name": "Венесуэльский боливар cоберан",
+    "currency_price": "20.2289"
+  },
+  "VUV": {
+    "currency_number": 548,
+    "currency_name": "Вату",
+    "currency_price": "78.3634"
+  },
+  "XAF": {
+    "currency_number": 950,
+    "currency_name": "Франк КФА ВЕАС",
+    "currency_price": "14.6454"
+  },
+  "XCD": {
+    "currency_number": 951,
+    "currency_name": "Восточно-карибский доллар",
+    "currency_price": "32.5671"
+  },
+  "XOF": {
+    "currency_number": 952,
+    "currency_name": "Франк КФА ВСЕАО",
+    "currency_price": "14.7958"
+  },
+  "YER": {
+    "currency_number": 886,
+    "currency_name": "Йеменский риал",
+    "currency_price": "35.2675"
+  },
+  "ZMW": {
+    "currency_number": 967,
+    "currency_name": "Замбийская квача",
+    "currency_price": "49.0043"
+  }
+}
